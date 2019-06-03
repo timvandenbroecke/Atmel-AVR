@@ -1,5 +1,5 @@
 # Made with MPLAB X IDE
-Here are examples on how to do stuff with the AVR microcontroller chip, i use the "ATMEGA 328P" mostly but will work for other ATMEGA chips too as long if you fallow its pinout datasheet sheet.
+Here are examples on how to do stuff with the AVR microcontroller chip, i use the "ATMEGA 328P" mostly but will work for other ATMEGA chips too as long if you fallow its pinout datasheet.
 
 # AVR_Arduino_UART.X
 Written in embedded C.
